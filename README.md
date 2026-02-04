@@ -1,4 +1,4 @@
-<h1>🌩️ Salesforce Learning Journey</h1>
+<h1>🌩️ Salesforce Journey</h1>
 
  <p> A public, hands-on Salesforce learning and practice repository documenting my daily progress across Admin, Development, and Platform Architecture.</p>
 
