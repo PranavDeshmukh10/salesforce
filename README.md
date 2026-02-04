@@ -1,4 +1,4 @@
-<h1>🌩️ Salesforce Journey</h1>
+<h1><img width="70" height="50" alt="sfdc" src="https://github.com/user-attachments/assets/eeffefe1-abcc-482c-a0ea-d3312baf7189" /> Salesforce Journey</h1>
 
  <p> A public, hands-on Salesforce learning and practice repository documenting my daily progress across Admin, Development, and Platform Architecture.</p>
 
