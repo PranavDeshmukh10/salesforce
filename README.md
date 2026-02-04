@@ -2,7 +2,7 @@
 
  <p> A public, hands-on Salesforce learning and practice repository documenting my daily progress across Admin, Development, and Platform Architecture.</p>
 
- <h2>👋 About This Repository</h2>
+ <h2>📝 About This Repository</h2>
 
 This repository tracks my **Salesforce learning journey**, where I revise core concepts, practice hands-on configurations, and explore real-world use cases — all documented in one place.
 
