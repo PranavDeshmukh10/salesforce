@@ -1,7 +1,7 @@
 ## 🔵 CRM (Customer Relationship Management)  
 Any application/software that helps automate or digitise marketing functions can be called CRM. It is used to increase profits and maximise revenues
   
-<img width="400" alt="crm" src="https://github.com/user-attachments/assets/0e42d6a2-31f3-41d1-befb-ccb90153a975" />  
+<img width="300"  alt="crm" src="https://github.com/user-attachments/assets/00a72863-73cd-4ff9-aaee-2fa2edc9270b" />
 
 ## Is Salesforce a CRM?
 - Yes, Salesforce is a CRM. In fact, Salesforce is the #1 CRM in the industry.
